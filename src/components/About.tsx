@@ -6,7 +6,7 @@ export function About() {
     return (
         <div className="about-container">
             <div className="my-image">
-                <img src="../../src/img/pp.jpg" alt="" />
+                <img src="/img/pp.jpg" alt="" />
             </div>
 
             <div className="my-info">

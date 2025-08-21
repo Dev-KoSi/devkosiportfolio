@@ -15,7 +15,7 @@ export function Projects() {
             <div className="all-projects">
                 <div className="project">
                     <div style={{width: '100%'}} className="project-image">
-                        <img style={{width: '100%'}} src="../../src/img/Obi.png" alt="" />
+                        <img style={{width: '100%'}} src="/img/Obi.png" alt="" />
                     </div>
 
                     <div className="project-name">
@@ -35,7 +35,7 @@ export function Projects() {
 
                 <div className="project">
                     <div style={{width: '100%'}} className="project-image">
-                        <img style={{width: '100%'}} src="../../src/img/Boole.png" alt="" />
+                        <img style={{width: '100%'}} src="/img/Boole.png" alt="" />
                     </div>
 
                     <div className="project-name">
@@ -55,7 +55,7 @@ export function Projects() {
 
                 <div className="project">
                     <div style={{width: '100%'}} className="project-image">
-                        <img style={{width: '100%'}} src="../../src/img/Friendi.png" alt="" />
+                        <img style={{width: '100%'}} src="/img/Friendi.png" alt="" />
                     </div>
 
                     <div className="project-name">

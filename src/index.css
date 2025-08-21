@@ -1,0 +1,26 @@
+body{
+  font-family: 'Outfit', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin: 0;
+  cursor: default
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+#a{
+  text-decoration: none;
+  color: black;
+  margin-left: 2px;
+  font-size: 17px;
+}
+#a :hover{
+  text-decoration: underline;
+}
+button, svg{
+  cursor: pointer;
+    white-space: nowrap;
+}
+.Link{
+  text-decoration: none;
+  color: black;
+}
